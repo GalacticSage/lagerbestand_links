@@ -1,0 +1,9 @@
+{
+    "version": "1.0",
+    "Settings": "https://raw.githubusercontent.com/GalacticSage/lagerbestand_gui/v1/settings.json",
+    "available_languages": "https://raw.githubusercontent.com/GalacticSage/lagerbestand_gui/v1/locales/available_languages.json",
+    "LanguageEN": "https://raw.githubusercontent.com/GalacticSage/lagerbestand_gui/v1/locales/en_US.json",
+    "LanguageDE": "https://raw.githubusercontent.com/GalacticSage/lagerbestand_gui/v1/locales/de_DE.json",
+    "LanguageFR": "https://raw.githubusercontent.com/GalacticSage/lagerbestand_gui/v1/locales/fr_FR.json",
+    "LanguageIT": "https://raw.githubusercontent.com/GalacticSage/lagerbestand_gui/v1/locales/it_IT.json"
+}
