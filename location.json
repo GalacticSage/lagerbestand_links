@@ -1,7 +1,7 @@
 {
     "version": "1.0",
     "pathSettings": "settings.json",
-    "pathAvaiableLanguages": "locales/available_languages.json",
+    "pathAvailableLanguages": "locales/available_languages.json",
     "pathLanguageEN": "locales/en_US.json",
     "pathLanguageDE": "locales/de_DE.json",
     "pathLanguageFR": "locales/fr_FR.json",
